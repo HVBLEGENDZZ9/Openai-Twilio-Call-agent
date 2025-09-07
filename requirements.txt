@@ -1,0 +1,7 @@
+openai-agents
+fastapi
+uvicorn[standard]
+websockets
+python-dotenvgoogle-api-python-client
+google-auth-oauthlib
+pymongo
